@@ -3,7 +3,7 @@ import { getRecord, getFieldValue } from 'lightning/uiRecordApi';
 import NAME_FIELD from '@salesforce/schema/Property__c.Name';
 import PICTURE_FIELD from '@salesforce/schema/Property__c.Picture__c';
 
-//this is example
+//this is example from here https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-for-aura-developers/work-with-salesforce-data
 export default class PropertySummary extends LightningElement {
     @api recordId;
     propertyName;
