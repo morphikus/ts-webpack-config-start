@@ -5,3 +5,5 @@
 [github-git-cheat-sheet](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
 
 [changing remote repo](https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url)
+
+[working with remote](https://docs.github.com/en/free-pro-team@latest/github/using-git/managing-remote-repositories)
