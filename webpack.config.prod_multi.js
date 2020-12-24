@@ -5,7 +5,7 @@ module.exports = {
   mode: 'production',
   entry: {
     fileOne: './src/app.ts',
-    fileTwo: './src/app.ts'
+    fileTwo: './src/app2.ts'
   },
   output: {
     filename: '[name].js',
